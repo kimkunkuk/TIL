@@ -1,7 +1,7 @@
 ## Java For Begginer !
-***
-### Java의 특징
 
+### Java의 특징
+***
 * 심플한 언어
   
 * 객체지향언어
